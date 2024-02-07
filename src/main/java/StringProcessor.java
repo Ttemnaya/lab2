@@ -22,6 +22,7 @@
 
             System.out.println(repeatString(s, N)); // Выводим результат на экран
         }
+        // )
     }
 
 
